@@ -1,14 +1,5 @@
-README - CinemaInteligente
+README - SmartCine
 1. Integrantes do Grupo
-Nome: Adriel Fernando Velosa
-RA: 2022901
-
-Nome: Carolina Cardoso Froehlich RA: 2025999
-
-Nome: Leonardo Souza Laudelino Neto
-RA: 2034248
-
-Nome: Pedro Furlan Ferreira de Souza RA: 2039555
 
 2. Como Executar o Projeto
 Pré-requisitos

@@ -1,0 +1,11 @@
+
+
+{
+    "name": "unimar/trabalho-gustavo",
+    "autoload": {
+        "psr-4": {
+            "Unimar\\TrabalhoGustavo\\": "src/"
+        }
+    },
+    "require": {}
+}
